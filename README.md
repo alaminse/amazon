@@ -23,7 +23,8 @@ Router in this project
 Currency formater for slice 
 ### `npm i firebase`
 Use firebase
-### `npm i strip-js`
+### `npm i @stripe/stripe-js`
+### `npm i @stripe/react-stripe-js`
 for cradit card 
 
 
