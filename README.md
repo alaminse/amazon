@@ -22,7 +22,9 @@ Router in this project
 ### `npm i react-currency-format`
 Currency formater for slice 
 ### `npm i firebase`
-Use firebase 
+Use firebase
+### `npm i strip-js`
+for cradit card 
 
 
 
