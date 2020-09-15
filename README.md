@@ -27,5 +27,5 @@ Use firebase
 ### `npm i @stripe/react-stripe-js`
 for cradit card 
 
-
+### `npm i axios`
 
